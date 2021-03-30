@@ -245,7 +245,7 @@ body {
         height: 30%;
     }
     .inner__Container2 {
-        height: 70%;
+        height: 148%;
     }
     .header__wrapper span {
         font-size: 22px;
@@ -253,16 +253,32 @@ body {
     .header__container span {
         font-size: 15px;
     }
+    .top__container {
+        width: 85%;
+        height: 21%;
+    }
+    .middle__container {
+        width: 85%;
+        height: 21%;
+    }
+    .bottom__container {
+        width: 85%;
+        height: 21%;
+    }
     .box1 {
+        width: 30%;
         height: 95%;
     }
     .box2 {
+        width: 30%;
         height: 95%;
     }
     .box3 {
+        width: 30%;
         height: 95%;
     }
     .box4 {
+        width: 30%;
         height: 95%;
     }
     .no__box span {
@@ -279,8 +295,9 @@ body {
         height: 40%;
     }
     .inner__Container2 {
-        height: 220%;
-        justify-content: space-evenly;
+        height: 500%;
+        justify-content: flex-start;
+        flex-direction: column;
     }
     .title__wrapper {
         width: 60%;
@@ -305,43 +322,44 @@ body {
     }
     .top__container {
         width: 60%;
-        height: 30%;
+        height: 37%;
         flex-wrap: wrap;
+        margin-top: 6%;
     }
     .middle__container {
         width: 60%;
-        height: 30%;
+        height: 37%;
         flex-wrap: wrap;
     }
     .bottom__container {
         width: 60%;
-        height: 30%;
+        height: 37%;
         flex-wrap: wrap;
     }
     .box1 {
-        width: 65%;
-        height: 45%;
+        width: 75%;
+        height: 20%;
     }
     .box2 {
-        width: 65%;
-        height: 45%;
+        width: 75%;
+        height: 20%;
     }
     .box3 {
-        width: 65%;
-        height: 45%;
+        width: 75%;
+        height: 20%;
     }
     .box4 {
-        width: 65%;
-        height: 45%;
+        width: 75%;
+        height: 20%;
     }
     .no__box {
         width: 40%;
-        height: 45%;
+        height: 20%;
         justify-content: center;
         align-items: center;
     }
     .no__box span {
-        font-size: 38px;
+        font-size: 30px;
         text-align: center;
     }
     .header__container {
@@ -350,7 +368,7 @@ body {
         justify-content: space-around;
     }
     .header__container span {
-        font-size: 25px;
+        font-size: 23px;
         text-align: center;
     }
     .text__container span {
